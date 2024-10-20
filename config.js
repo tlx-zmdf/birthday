@@ -10,7 +10,7 @@ var config = {
     // with square picture for better choice
     imgs: {
         //"亲爱的超超": "./imgs/chenchao.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+         "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述
     desc: {
