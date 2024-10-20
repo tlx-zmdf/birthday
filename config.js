@@ -2,18 +2,14 @@
 var config = {
     texts: [
         "送给我",      
-        "亲爱的超超",  
-        "祝18生日快乐！",
-        "恭喜成年！",
-        "高考得偿所愿",
-        "顺利考上理想大学",
+        "的小猫",  
+        "祝19生日快乐！",
         "万事顺遂",
         "天天开心",
-        "（ps：开心可比学习重要的多）",
     ],
     // with square picture for better choice
     imgs: {
-        "亲爱的超超": "./imgs/chenchao.png",
+        //"亲爱的超超": "./imgs/chenchao.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述
